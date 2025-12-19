@@ -32,7 +32,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
----
+```
 math.html
 
 <!DOCTYPE html>
@@ -135,7 +135,7 @@ urlpatterns = [
 
 
 
----
+```
 
 
 ## SERVER SIDE PROCESSING:
